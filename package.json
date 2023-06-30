@@ -1,6 +1,6 @@
 {
   "name": "rn-image-swiper",
-  "version": "0.0.0-local.6",
+  "version": "0.1.0",
   "description": "React Native Image Swiper Component",
   "private": false,
   "main": "lib/commonjs/index",
