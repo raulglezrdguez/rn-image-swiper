@@ -1,7 +1,8 @@
 {
   "name": "rn-image-swiper",
-  "version": "0.1.0",
+  "version": "0.0.0-local.6",
   "description": "React Native Image Swiper Component",
+  "private": false,
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
   "types": "lib/typescript/index.d.ts",
@@ -38,7 +39,11 @@
   "keywords": [
     "react-native",
     "ios",
-    "android"
+    "android",
+    "slider",
+    "swiper",
+    "image",
+    "scroller"
   ],
   "repository": "https://github.com/raulglezrdguez/rn-image-swiper.git",
   "author": "raulglezrdguez <raulglezrdguez69@gmail.com> (https://github.com/raulglezrdguez/rn-image-swiper#readme)",
@@ -51,8 +56,8 @@
     "registry": "https://registry.npmjs.org/"
   },
   "devDependencies": {
-    "@evilmartians/lefthook": "^1.2.2",
     "@commitlint/config-conventional": "^17.0.2",
+    "@evilmartians/lefthook": "^1.2.2",
     "@react-native-community/eslint-config": "^3.0.2",
     "@release-it/conventional-changelog": "^5.0.0",
     "@types/jest": "^28.1.2",
